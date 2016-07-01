@@ -1,0 +1,12 @@
+<script type="text/javascript" src="<?php echo js_url ?>jquery.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>AdminLTE/js/app.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>moment/moment.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>select2/select2.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>bootstrap-fileinput/js/fileinput.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>datatables/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>datatables/dataTables.bootstrap.min.js"></script>
+<script type="text/javascript" src="<?php echo plugin_url ?>ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="<?php echo js_url ?>formElements.js"></script>
+<script type="text/javascript" src="<?php echo js_url ?>admin.js"></script>

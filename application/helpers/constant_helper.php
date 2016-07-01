@@ -1,0 +1,11 @@
+<?php
+define('assets_url',base_url().'assets/');
+define('plugin_url',base_url().'assets/plugins/');
+define('image_url',base_url().'assets/images/');
+define('image_user_url',base_url().'assets/images/');
+define('css_url',base_url().'assets/css/');
+define('js_url',base_url().'assets/js/');
+define('default_user',base_url().'assets/images/default_user.png');
+define('default_post',base_url().'assets/images/default_post.jpg');
+define('image_user',base_url().'assets/images/file_user/');
+define('image_post',base_url().'assets/images/file_post/');
