@@ -18,10 +18,10 @@ class Admin extends CI_Controller {
         $data['title'] = "Dashboard";
         $data['session'] = $this->session->userdata;
         $data['dataUser'] = getDataUser($this->session->userdata('id_user'));
-        if( in_array( intval($data['session']['id_role']) , array(aU) ) ){
-            $data['parentTitle']    = "Post Images / Video";
-            $data['title']          = 'Data Post';
-        }
+        // if( in_array( intval($data['session']['id_role']) , array(aU) ) ){
+        //     $data['parentTitle']    = "Post Images / Video";
+        //     $data['title']          = 'Data Post';
+        // }
         return $data;
     }
 
